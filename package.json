@@ -22,9 +22,7 @@
     "url": "https://github.com/fnzc/nz-bank-account-validator/issues"
   },
   "homepage": "https://github.com/fnzc/nz-bank-account-validator#readme",
-  "dependencies": {
-    "left-pad": "^1.3.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "jasmine": "^3.3.1"
   }
